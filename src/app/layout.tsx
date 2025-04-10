@@ -25,6 +25,7 @@ export default function RootLayout({
           strategy="afterInteractive"
           crossOrigin="anonymous"
         />
+        <meta name="google-adsense-account" content="ca-pub-7119422349393714" />
       </head>
       <body className={inter.className}>
         <main className="min-h-screen">
