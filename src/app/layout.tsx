@@ -21,11 +21,11 @@ export default function RootLayout({
       <head>
         <Script
           async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7119422349393714"
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7119422194933714"
           strategy="afterInteractive"
           crossOrigin="anonymous"
         />
-        <meta name="google-adsense-account" content="ca-pub-7119422349393714" />
+        <meta name="google-adsense-account" content="ca-pub-7119422194933714" />
       </head>
       <body className={inter.className}>
         <main className="min-h-screen">
